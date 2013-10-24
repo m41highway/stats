@@ -12,3 +12,5 @@ and a non leap year gives an offest of 1 weekday. I can then have the "year-firs
 the count of first day respectively for Monday, Tuesday to Sunday. And using the formula, 
 total = sun * 5 + thr * 5 + fri * 5 + mon * 4 + tue * 4 + wed * 4 + sat * 4 to get the total.
 
+"countSundayOnMonthBegin.rb" is the fixed version as there is mis-interpretation in question.
+
